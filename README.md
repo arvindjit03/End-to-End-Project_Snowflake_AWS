@@ -1,7 +1,7 @@
 # End-to-End-Project_Snowflake_AWS
 A demo project to practically learn and understand the integration between Snowflake and AWS services.
 
-**AWS services used**: 
+**AWS services used**:
 
 - Amazon S3
 - IAM (Identity and Access Management)
